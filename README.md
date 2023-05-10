@@ -3,13 +3,13 @@
 
 # File Hirerchy
 Iris Flower
-  Static
-    css
-      Style.css
-    Style.css
-  Template
-    index.html
-  app.py
-  Iris.csv
-  model.py
-  model.pkl
+├── app.py
+├── model.py
+├── iris.csv
+├── model.pkl
+├── templates
+│   ├── index.html
+│   └── results.html
+└── static
+    ├── css
+        └── styles.css
