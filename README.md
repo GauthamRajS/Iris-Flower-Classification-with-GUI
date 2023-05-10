@@ -1,8 +1,5 @@
-# Iris-Flower-Classification-with-GUI
-
-
-# File Hirerchy
-Iris Flower
+Iris-Flower-Classification-with-GUI
+│
 ├── app.py
 ├── model.py
 ├── iris.csv
@@ -11,5 +8,5 @@ Iris Flower
 │   ├── index.html
 │   └── results.html
 └── static
-    ├── css
+    └── css
         └── styles.css
