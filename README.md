@@ -7,7 +7,6 @@ Iris-Flower-Classification-with-GUI
 ├── model.pkl
 ├── templates
 │   ├── index.html
-│   └── results.html
 └── static
     └── css
         └── styles.css
